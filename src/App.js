@@ -11,7 +11,7 @@ export default function App() {
   return (
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <div className='bg-sky-100 w-full h-full min-h-screen flex flex-col mx-auto justify-center items-center'>
+        <div className='bg-sky-100 w-full h-full min-h-screen mx-auto justify-center'>
           <Header />
           <style>
             {`
