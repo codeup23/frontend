@@ -47,13 +47,13 @@ Once the application is running, you can explore its features:
 - **State Management**: Redux Toolkit manages the application state, ensuring that the UI is consistent with the underlying data.
 - **Persistent Storage**: The use of redux-persist library to store the data on local storage.
 - #### CRUD Operations:
-  *Creating a Todo*:
+ - *Creating a Todo*:
   You can create a Todo by entering the details.
-  *Updating the Todo*:
+ - *Updating the Todo*:
   By clicking on the update option, the user can update the Todo which was previously created.
-  *Deleting the Todo*:
+ - *Deleting the Todo*:
   The Todo which was created can be deleted once and for all.
-  *Display*:
+ - *Display*:
   All the Todos which were created are displayed.
 - The Todo once created stays on the user's pc even after the page is refreshed.
 
